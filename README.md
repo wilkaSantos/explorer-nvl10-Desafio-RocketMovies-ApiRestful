@@ -26,11 +26,22 @@
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
+<br>
+Front-end:
+<br>
 
 - React
 - CSS
 - Vite
 - Figma
+
+<br>
+Back-end:
+<br>
+
+- Node
+- Insominia
+- Banco Sqlite
 
 <br>
 ## 💻 Projeto
